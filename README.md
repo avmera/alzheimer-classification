@@ -79,4 +79,10 @@ We applied data cleaning and augmentation techniques to balance the classes.
 ---
 
 ## 📁 Project Structure
-
+.
+├── notebooks/ # All modeling notebooks
+├── models scores/ # Evaluation images & confusion matrices
+├── results_confidence/ # Confidence values for each model
+├── dataframes/ # Processed CSV data
+├── augmentation/ # Data augmentation scripts
+├── README.md # Project description
