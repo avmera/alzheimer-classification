@@ -66,15 +66,20 @@ We applied data cleaning and augmentation techniques to balance the classes.
 
 ---
 
-## 📊 Tools and Packages
+## 📦 Tools and Packages Used
 
-- Python, NumPy, Pandas, Matplotlib, Seaborn
-- Scikit-learn
-- TensorFlow & Keras
-- Transformers (Hugging Face)
-- PEFT (for efficient fine-tuning)
-- OpenCV
-- Google Colab & TensorBoard
+- Python  
+- NumPy, Pandas, Matplotlib, Seaborn  
+- Scikit-learn  
+- TensorFlow & Keras  
+- PyTorch  
+- OpenCV  
+- Hugging Face Transformers  
+- Gradio (for UI deployment)  
+- TensorBoard (model visualization)  
+- PEFT (efficient fine-tuning)  
+- Docker  
+- Git & GitHub  
 
 ---
 
@@ -88,4 +93,5 @@ We applied data cleaning and augmentation techniques to balance the classes.
 ├── dataframes/             # Processed CSV data
 ├── augmentation/           # Data augmentation scripts
 └── README.md               # Project description
+
 
